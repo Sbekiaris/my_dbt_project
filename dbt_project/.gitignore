@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# dbt artifacts (for dbt local)
+target/
+dbt_packages/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: secrets / config
+.env
