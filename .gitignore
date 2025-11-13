@@ -28,7 +28,4 @@ Thumbs.db
 
 # Optional: secrets / config
 .env
-.venv/Include/site/python3.11/greenlet/
-.venv/Lib/site-packages/
-.venv/Scripts
 pyvenv.cfg
